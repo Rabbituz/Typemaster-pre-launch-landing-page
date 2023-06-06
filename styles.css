@@ -247,6 +247,7 @@ main .third-section .container-third-section .container-text h3 {
     font-size: calc(24rem / 16);
     text-transform: uppercase;
     line-height: 28px;
+    font-weight: 900;
 }
 main .third-section .container-third-section .container-text p{
     font-size: calc(16rem / 16);
