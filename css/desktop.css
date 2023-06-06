@@ -21,6 +21,7 @@ body .first-section .container-first-section {
     width: 1110px;
     height: 480px;
     margin-bottom: 30px;
+    left: 0;
 }
 body .first-section .container-first-section .container-text {
     width: 445px;
