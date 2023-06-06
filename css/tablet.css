@@ -1,0 +1,110 @@
+body header .container-header {
+    width: 689px;
+    height: 58px;
+    top: 40px;
+}
+body header {
+    height: 160px;
+}
+body header .container-header button {
+    width: 175px;
+    height: 58px;
+}
+main .first-section {
+    overflow: hidden;
+}
+main .first-section .container-first-section {
+    width: 886px;
+    height: 425px;
+    flex-direction: row;
+    position: relative;
+    left: 39px;
+    margin-bottom: 40px;
+}
+main .first-section .container-first-section picture {
+    width: 478px;
+    height: 425px;
+    position: absolute;
+    left: 408px;
+}
+main .first-section .container-first-section .container-text {
+    width: 339px;
+    height: 305px;
+}
+
+main .first-section .container-first-section .container-text .container-buttons {
+    width: 339px;
+    height: 58px;
+}
+main .first-section .container-first-section .container-text .container-buttons button {
+    width: 175px;
+    height: 58px;
+}
+
+main .second-section .container-second-section {
+    width: 689px;
+    height: 500px;
+    margin-bottom: 142px;
+}
+main .second-section .container-second-section .container-img {
+    left: 0;
+    width: 689px;
+    height: 320px;
+}
+main .second-section .container-second-section .container-img .container-keyboard-1 {
+    width: 214px;
+    height: 320px;
+}
+main .second-section .container-second-section .container-img .container-keyboard-2 {
+    width: 445px;
+    height: 320px;
+}
+main .second-section .container-second-section .container-text {
+    width: 689px;
+    height: 108px;
+    flex-direction: row;
+}
+main .second-section .container-second-section .container-text h2 {
+    width: 255px;
+    height: 108px;
+}
+main .second-section .container-second-section .container-text p {
+    width: 398px;
+    height: 78px;
+}
+
+main .third-section .container-third-section {
+    width: 631px;
+    height: 650px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+main .third-section .container-third-section .container-text {
+    width: 281px;
+    height: 289px;
+    align-items: start;
+}
+main .third-section .container-third-section .order-1 {
+    order: 1;
+}
+main .third-section .container-third-section .order-2 {
+    order: 3;
+}
+main .third-section .container-third-section .order-3 {
+    order: 2;
+}
+main .third-section .container-third-section .order-4 {
+    order: 4;
+}
+main .third-section .container-third-section .container-text h3 {
+    text-align: start;
+}
+main .third-section .container-third-section .container-text p {
+    text-align: start;
+}
+footer div {
+    height: 211px;
+}
+footer div p {
+    top: 142px;
+}
