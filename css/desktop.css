@@ -6,7 +6,7 @@ body header .container-header {
     top: 55px;
 }
 body {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 body .first-section .background-img {
     width: 255px;
