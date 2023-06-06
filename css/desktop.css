@@ -8,6 +8,7 @@ body header .container-header {
 body {
     overflow-x: hidden;
 }
+
 body .first-section .background-img {
     width: 255px;
     height: 240px;
@@ -32,13 +33,14 @@ body .first-section .container-first-section .container-text h1 {
 body .first-section .container-first-section .container-text .text-paragraph {
     font-size: calc(18rem / 16);
     line-height: 26px;
+    position: absolute;
+    top: 136px;
 }
 body .first-section .container-first-section picture {
     width: 540px;
     height: 480px;
     left: 570px;
 }
-
 body .second-section .container-second-section {
     width: 1110px;
     height: 480px;
@@ -90,6 +92,9 @@ body .third-section .container-third-section .container-text {
     width: 255px;
     height: 323px;
 }
+body .third-section .container-third-section .container-text h3 {
+    top: 113px;
+}
 main .third-section .container-third-section .order-1 {
     order: 1;
 }
@@ -102,7 +107,6 @@ main .third-section .container-third-section .order-3 {
 main .third-section .container-third-section .order-4 {
     order: 4;
 }
-
 
 footer div {
     height: 193px;
