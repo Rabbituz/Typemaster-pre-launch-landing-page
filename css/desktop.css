@@ -15,7 +15,7 @@ body .first-section .background-img {
     background-image: url(../assets/shared/pattern-square.svg);
     position: absolute;
     background-size: cover;
-    right: -185px;
+    right: -125px;;
 }
 body .first-section .container-first-section {
     width: 1110px;
