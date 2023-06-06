@@ -3,6 +3,7 @@ body header {
 }
 body header .container-header {
     width: 1110px;
+    top: 55px;
 }
 
 body .first-section .background-img {
@@ -11,7 +12,7 @@ body .first-section .background-img {
     background-image: url(../assets/shared/pattern-square.svg);
     position: absolute;
     background-size: cover;
-    right: -165px;
+    right: -185px;
 }
 body .first-section .container-first-section {
     width: 1110px;
@@ -87,6 +88,20 @@ body .third-section .container-third-section .container-text {
     width: 255px;
     height: 323px;
 }
+main .third-section .container-third-section .order-1 {
+    order: 1;
+}
+main .third-section .container-third-section .order-2 {
+    order: 2;
+}
+main .third-section .container-third-section .order-3 {
+    order: 3;
+}
+main .third-section .container-third-section .order-4 {
+    order: 4;
+}
+
+
 footer div {
     height: 193px;
 }
