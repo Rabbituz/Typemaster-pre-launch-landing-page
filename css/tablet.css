@@ -98,6 +98,7 @@ main .third-section .container-third-section .order-4 {
 }
 main .third-section .container-third-section .container-text h3 {
     text-align: start;
+    top: 105px;
 }
 main .third-section .container-third-section .container-text p {
     text-align: start;
